@@ -1,2 +1,2 @@
-asyncio
-aiogram
+aiogram>=2.0,<3.0
+aioredis==2.0
